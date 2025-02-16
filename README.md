@@ -1,2 +1,2 @@
 # Admin
-Admin part
+Admin site
